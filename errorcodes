@@ -1,0 +1,10 @@
+Error 102 > Action: Kick Player - Player is glitched or the game has glitched and the player is stuck in that particular loop or structure of that glitch.
+Error 404 > Action: Kick Player - Datastore had trouble loading your Data, kicked you to save your Data from corrupting and deleting.
+Error 404-1 > Action: Kick Player - Datastore was loaded on a different server resulting in you being kicked to prevent corruption or deleting of Data.
+Error 404-2 > Action: Ban Player - Tried tampering with Data, resulting in Ban.
+Error 404-3 > Action: Kick Player - Datastore had errors that prevented the Data constructor to load Player's Data, resulting in Kick to prevent Player's Data from being corrupted or deleted.
+Error 357 > Action: Kick Player - Property of your Character was changed accidental by Script, resulting in Kick preventing Player from exploiting/abusing it.
+Error 357-1 > Action: Ban Player - Property of your Character was changed by exploit, resulting in Ban.
+Error 357-2 > Action: Ban Player - Detection of exploit calling invalid method, resulting in Ban.
+Error 999 > Action: Ban Player - Synapse X Detected, resulting in Ban.
+Error 999-1 > Action: Ban Player - WeAreDev's API Detected, resulting in Ban.
